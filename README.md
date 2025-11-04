@@ -1,10 +1,10 @@
-⚠️ Not maintained anymore! If you want to become a maintainer, [let me know](ivanhp978@gmail.com).
 
-# SwiftCharts
+# SwiftCharts (Version 0.9.0)
 
-[![Version](https://img.shields.io/cocoapods/v/SwiftCharts.svg?style=flat)](http://cocoadocs.org/docsets/SwiftCharts)
+
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/SwiftCharts.svg?style=flat)](http://cocoadocs.org/docsets/SwiftCharts)
+
 
 Easy to use and highly customizable charts library for iOS
 
