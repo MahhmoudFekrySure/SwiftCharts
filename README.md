@@ -65,13 +65,13 @@ Add to your Podfile:
 
 ```ruby
 use_frameworks!
-pod 'SwiftCharts', '~> 0.6.5'
+pod 'SwiftCharts', :git => 'https://github.com/MahhmoudFekrySure/SwiftCharts.git', :tag => '0.9.0'
 ```
 
 
 To use master directly:
 ```ruby
-pod 'SwiftCharts', :git => 'https://github.com/i-schuetz/SwiftCharts.git'
+pod 'SwiftCharts', :git => 'https://github.com/MahhmoudFekrySure/SwiftCharts.git', :tag => '0.9.0'
 ```
 
 And then:
@@ -89,7 +89,7 @@ import SwiftCharts
 Add to your Cartfile:
 
 ```
-github "i-schuetz/SwiftCharts" ~> 0.6.5
+github "MahhmoudFekrySure/SwiftCharts" ~> 0.9.0
 ```
 
 ## Contribute
